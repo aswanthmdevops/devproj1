@@ -1,4 +1,8 @@
 this is first line
 this is second line
+<<<<<<< HEAD
 this is fourth line
 
+=======
+this is third line
+>>>>>>> df590cf45fffb1fd5466c8f80e41ea1e4e9251cc
